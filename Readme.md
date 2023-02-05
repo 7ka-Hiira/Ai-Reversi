@@ -2,7 +2,7 @@
 
 Reversi bot for Misskey v12 &amp; v13
 
-初心者がつくったバグだらけのコードです。
+Misskey v13 で Katex が廃止となり、 Play 機能が実装されたため使用できなくなりました。
 
 藍のスクリプトに組み込まれるのではなく、完全に独立して動きます。https://mi.rhyme.ml/@ai@mi.rhyme.ml
 
